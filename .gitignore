@@ -53,6 +53,7 @@ coverage.xml
 .vscode/
 
 # Environments
+.artifacts
 .env
 .venv
 env/
